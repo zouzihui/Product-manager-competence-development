@@ -17,7 +17,9 @@
 
 ### “以人为本的设计：用户的代言人”视频内容总结
 “用户”：“去人性化”（Simon Baron-Cohen提出）
+
 ⬇需要
+
 建立“用户画像”：了解用户需求
 
 #### “以用户为中心”设计的主要特征：
@@ -36,4 +38,21 @@
 * 设计出解决方案
 * 根据初始“需求”来“评估”解决方案
 
+### “谷歌的设计冲刺”视频内容总结
+设计冲刺（design sprint）→五天系统化流程
 
+⬇
+
+更快构建更好的产品
+
+**设计冲刺2.0**（四天）
+* M:Map Sketch
+* T:Decide Story-board(情节提要)
+* W:Prototype
+* T:Tset
+
+#### 设计的原则：
+1. Together Alone
+2. Tangible > Discussion(有形的比讨论开始更重要)
+3. Getting Start > Being Right(开始比正确更重要)
+4. Don't rely on Creating(不要依赖创造力)
